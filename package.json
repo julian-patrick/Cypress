@@ -1,0 +1,55 @@
+{
+
+  "name": "teste-ui-ebac",
+  "version": "1.0.0",
+
+  "description": "Aprendendo a utilizar o Cypress",
+  "main": "index.js",
+
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run",
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  
+  },
+
+  "repository": {
+
+    "type": "git",
+
+    "url": "git+https://git@github.com:julian-patrick/Cypress.git"
+
+  },
+
+  "keywords": [],
+
+  "author": "",
+
+  "license": "ISC",
+
+  "bugs": {
+
+    "url": "https://git@github.com:julian-patrick/Cypress.git/issues"
+
+  },
+
+  "homepage": "git@github.com:julian-patrick/Cypress.git#readme",
+
+  "devDependencies": {
+
+    "cypress": "^12.17.2"
+
+  },
+
+  "dependencies": {
+
+    "faker": "^6.6.6"
+
+  }
+
+  
+}
+
+
+
