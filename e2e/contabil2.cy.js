@@ -24,7 +24,7 @@ context('Realizar o login no Contabil', () =>{
 
  
 
-beforeEach(() => {
+beforeEach(() => {     
 
 cy.visit('http://atual.sisprevweb.com.br/contabilweb02/login.aspx')
 cy.clearAllCookies()
